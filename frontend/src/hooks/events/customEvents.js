@@ -1,0 +1,2 @@
+// Ce fichier permet d'avoir les alert sans actualiser la page, pour les autres (redirection etc il faut les appeler en localstorage)
+export const successMessageEvent = new Event("successMessageEvent");
